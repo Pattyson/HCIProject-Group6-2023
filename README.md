@@ -7,7 +7,7 @@ Creating a platformer for the group assignment in CAP3104
 Ideate and design a human-computer interaction interface that provides a solution to a problem.
 
 # Directions
-##1.Think of a problem or application that a human-computer interaction (HCI) interface could solve or improve (e.g., the Plan of Study process is not obvious and is time consuming).
+1.Think of a problem or application that a human-computer interaction (HCI) interface could solve or improve (e.g., the Plan of Study process is not obvious and is time consuming).
 
 2.Ideate a state-of-the-art HCI interface solution to the problem (e.g., a responsive website for quickly generating and customizing a Plan of Study). 
 
