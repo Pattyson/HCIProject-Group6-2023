@@ -1,12 +1,12 @@
 # HCI Group Project - Group 6
 
-Creating a platformer for the group assignment in CAP3104
+Creating a platformer for the group assignment in CAP3104.
 
-# Purpose
+## Purpose
 
 Ideate and design a human-computer interaction interface that provides a solution to a problem.
 
-# Directions
+## Directions
 1.Think of a problem or application that a human-computer interaction (HCI) interface could solve or improve (e.g., the Plan of Study process is not obvious and is time consuming).
 
 2.Ideate a state-of-the-art HCI interface solution to the problem (e.g., a responsive website for quickly generating and customizing a Plan of Study). 
@@ -40,3 +40,10 @@ Ideate and design a human-computer interaction interface that provides a solutio
 - A Gantt chart that clearly indicates which interactive features will be developed for each prototype and which team members will be responsible for the development of each feature.
 
 9.Submit the PDF document.
+
+# The Plan
+
+The current idea is to create a platformer similar to Mario using the Java programming language. This idea is likely to evolve while the project continues devolpment. 
+
+
+
